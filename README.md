@@ -133,4 +133,9 @@ Repeated failed authentication attempts caused the Windows account to lock.
 
 Matt Stokes
 
-Aspiring SOC Analyst / Cybersecurity Professional
+IT Engineer | Aspiring SOC Analyst | Cybersecurity Enthusiast
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/matt-stokes-95185a226/
+- GitHub: https://github.com/MS241290
